@@ -1,7 +1,7 @@
 # BigData-Analytics
-##Module 4: Data Fundamentals with Python
+## Module 4: Data Fundamentals with Python
 
-###Python Day 1
+### Python Day 1
 
 M4 - 01 - Hello World
 M4 - 02 - Variables
