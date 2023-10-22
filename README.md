@@ -12,23 +12,27 @@ M4 - 02 - Variables: In this file, you'll explore the concept of variables in Py
 
 M4 - 03 - Conditionals:This file delves into conditional statements in Python, a crucial aspect of programming logic. It covers the use of if, elif, and else statements to make decisions based on certain conditions. By mastering conditionals, learners gain the ability to create responsive and dynamic programs that execute different actions depending on specific circumstances. This module also introduces boolean expressions and logical operators, essential tools for creating complex decision-making structures in Python code.
 
-Python Day 2
+### Python Day 2
 
-Python Day 3
+### Python Day 3
 
-Python Day 4
+### Python Day 4
 
-Python Day 5
-
-
-Module 5: Machine Learning
+### Python Day 5
 
 
+## Module 5: Machine Learning
 
-Module 6: Cloud Computing
 
-Cloud Day 1
 
-Cloud Day 2
+## Module 6: Cloud Computing
 
-Cloud Day 3
+### Cloud Computing Day 1
+
+### Cloud Computing Day 2
+
+### Cloud Computing Day 3
+
+### Cloud Computing Day 4
+
+### Cloud Computing Day 5
