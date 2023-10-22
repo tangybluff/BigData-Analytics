@@ -25,7 +25,7 @@ M4 - 03 - Conditionals:This file delves into conditional statements in Python, a
 
 
 
-## Module 6: Cloud Computing
+## [Module 6: Cloud Computing](https://github.com/tangybluff/BigData-Analytics/tree/873422951524751f45a1bfe729a6930774838460/M6%20-%20Cloud%20Computing)
 
 ### Cloud Computing Day 1
 
@@ -33,6 +33,4 @@ M4 - 03 - Conditionals:This file delves into conditional statements in Python, a
 
 ### Cloud Computing Day 3
 
-### Cloud Computing Day 4
 
-### Cloud Computing Day 5
