@@ -23,7 +23,7 @@ This is my portfolio of everything that I have covered during my Big Data course
   - Day 3
 
 
-## Module 3: Data Management with SQL
+## [Module 3: Data Management with SQL](https://github.com/tangybluff/BigData-Analytics/tree/73e074f08215374a1730d695451062886b11c857/M3%20-%20Data%20Management%20with%20SQL)
 
 ### SQL Day 3
 - M3 - Assertations with SQL
