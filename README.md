@@ -25,6 +25,21 @@ This is my portfolio of everything that I have covered during my Big Data course
 
 ## Module 3: Data Management with SQL
 
+### SQL Day 3
+- M3 - Assertations with SQL
+- M3 - imdb_movies table
+
+### SQL Day 4
+- M3 - air_pollution_pm
+- M3 - death_rates
+- M3 - global_top_manufact
+- M3 - poverty_population_distribution
+
+### SQL Day 5
+- M3 - Contamination Console
+- M3 - Contamination Console (Resolved)
+- M3 - SQLite Operators
+
 ## [Module 4: Data Fundamentals with Python](https://github.com/tangybluff/BigData-Analytics/tree/917b849b28514453042cae5e526ff001ca087918/M4%20-%20Data%20Fundamentals%20with%20Python)
 
 ### Python Day 1
