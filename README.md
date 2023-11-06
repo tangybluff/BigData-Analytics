@@ -1,5 +1,20 @@
 # BigData-Analytics Portfolio
+This is my portfolio of everything that I have covered during my Big Data course saved in Jupyter notebooks. It covers a range of topics, from basics and fundamentals of both SQL and Python, to more advanced aspects of data science and analytics, such as Machine Learning. 
 ## Index:
+- Module 4:
+  - Python Day 1
+    - 
+  - Python Day 2
+  - Python Day 3
+  - Python Day 4
+  - Python Day 5
+- Module 5:
+  - Machine Learning Day 1
+  - Machine Learning Day 2
+  - Machine Learning Day 3
+  - Machine Learning Day 4
+  - Machine Learning Day 5
+- Module 6:
 
 ## [Module 4: Data Fundamentals with Python](https://github.com/tangybluff/BigData-Analytics/tree/917b849b28514453042cae5e526ff001ca087918/M4%20-%20Data%20Fundamentals%20with%20Python)
 
